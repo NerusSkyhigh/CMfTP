@@ -8,7 +8,7 @@ set xrange [0:90]
 set yrange [-1:1.5]
 
 set xlabel '{/Symbol q} (deg)'
-set ylabel 'l=l(cos {/Symbol q})'
+set ylabel 'P_l(cos {/Symbol q})'
 
 set grid
 
