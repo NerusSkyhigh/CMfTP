@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 gcc -Wall LegendrePolynomials.c -o LegendrePolynomials.o -lm -I~$USER/gsl/include  -L~$USER/gsl/lib -lgsl -lgslcblas
 mkdir -p data
