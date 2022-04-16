@@ -18,3 +18,10 @@ An analysis between the function written and the GSL function was carried out to
 #### Exercise 10:
 _Write a C program to numerically calculate the Legendre polynomials and the associated Legendre functions for any value of l._
 An analysis between the different methods and the GSL functions was carried out.
+
+#### Exercise 11:
+_Write a C program to numerically calculate the spherical Bessel Functions._
+An analysis between the different methods and the GSL functions was carried out.
+
+#### Exercise 12:
+_Write a C program to numerically calculate the screened Rutherford cross-section._
